@@ -12,3 +12,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.card{
+  border:1px solid #EEEAE9;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color:#FAF6F5;
+}
+
+.btn{
+  height:40px;
+  width: 250px;
+  font-weight: bold;
+}
+.cardBtn{
+  height:50px;
+  width: 300px;
+  font-weight: bold;
+}
+
+.inputForm{
+  height:50px;
+  width: 250px;
+  margin-left: 55px;
+}
